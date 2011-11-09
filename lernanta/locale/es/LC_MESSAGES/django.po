@@ -18,16 +18,16 @@ msgstr ""
 #: apps/activity/feeds.py:70
 #, python-format
 msgid "Activity feed from %s"
-msgstr "Bitácora de actividades de %s"
+msgstr "Activity feed van %s"
 
 #: apps/activity/feeds.py:114
 #, python-format
 msgid "Activity feed from %s's dashboard"
-msgstr "Bitácora de actividades que %s está siguiendo"
+msgstr "Activity feed van %s's dashboard"
 
 #: apps/activity/models.py:95
 msgid "activities"
-msgstr "actividades"
+msgstr "bezigheden"
 
 #: apps/activity/models.py:102
 #, python-format
@@ -37,31 +37,31 @@ msgstr "%(actor)s %(verb)s %(target)s"
 #: apps/activity/models.py:120
 #, python-format
 msgid "wall activity from %s"
-msgstr "actividad de %s"
+msgstr "wall activity van"
 
 #: apps/activity/schema.py:22
 msgid "started following"
-msgstr "comenzó a seguir"
+msgstr "volgt nu"
 
 #: apps/activity/schema.py:23
 msgid "joined"
-msgstr "se unió a"
+msgstr "is aangesloten bij"
 
 #: apps/activity/schema.py:24
 msgid "posted"
-msgstr "publicó"
+msgstr "gepost"
 
 #: apps/activity/schema.py:25
 msgid "updated"
-msgstr "actualizó"
+msgstr "geupdate"
 
 #: apps/activity/schema.py:26
 msgid "shared"
-msgstr "compartió"
+msgstr "gedeeld"
 
 #: apps/activity/schema.py:27
 msgid "received"
-msgstr "recibió"
+msgstr "ontvangen"
 
 #: apps/activity/views.py:43
 msgid "This activity was deleted."
