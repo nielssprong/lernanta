@@ -18,12 +18,12 @@ msgstr ""
 #: apps/activity/feeds.py:70
 #, python-format
 msgid "Activity feed from %s"
-msgstr "Bitácora de actividades de %s"
+msgstr "Activity feed van %s"
 
 #: apps/activity/feeds.py:114
 #, python-format
 msgid "Activity feed from %s's dashboard"
-msgstr "Bitácora de actividades que %s está siguiendo"
+msgstr "Activity feed van %s's dashboard"
 
 #: apps/activity/models.py:95
 msgid "activities"
@@ -37,55 +37,55 @@ msgstr "%(actor)s %(verb)s %(target)s"
 #: apps/activity/models.py:120
 #, python-format
 msgid "wall activity from %s"
-msgstr "actividad de %s"
+msgstr "wall activity van %s"
 
 #: apps/activity/schema.py:22
 msgid "started following"
-msgstr "comenzó a seguir"
+msgstr "volgt nu"
 
 #: apps/activity/schema.py:23
 msgid "joined"
-msgstr "se unió a"
+msgstr "is toegetreden tot"
 
 #: apps/activity/schema.py:24
 msgid "posted"
-msgstr "publicó"
+msgstr "gepost"
 
 #: apps/activity/schema.py:25
 msgid "updated"
-msgstr "actualizó"
+msgstr "heeft geupdate"
 
 #: apps/activity/schema.py:26
 msgid "shared"
-msgstr "compartió"
+msgstr "gedeeld"
 
 #: apps/activity/schema.py:27
 msgid "received"
-msgstr "recibió"
+msgstr "ontvangen"
 
 #: apps/activity/views.py:43
 msgid "This activity was deleted."
-msgstr "Esta actividad fue eliminada."
+msgstr "Deze activiteit is gewist"
 
 #: apps/activity/views.py:64
 msgid "You can't edit this activity"
-msgstr "Usted no puede editar esta actividad"
+msgstr "Sorry, je kunt deze activiteit niet editen"
 
 #: apps/activity/views.py:69
 msgid "Activity deleted!"
-msgstr "¡Actividad eliminada!"
+msgstr "Activiteit gewist!"
 
 #: apps/activity/views.py:71
 msgid "Activity restored!"
-msgstr "¡Actividad restaurada!"
+msgstr "Activiteit hersteld"
 
 #: apps/badges/forms.py:60
 msgid "You cannot give a badge to yourself."
-msgstr "Usted no puede darse una medalla a sí mismo."
+msgstr "Je kunt geen badge aan jezelf geven"
 
 #: apps/badges/forms.py:65 apps/projects/forms.py:99 apps/schools/forms.py:96
 msgid "That user account was deleted."
-msgstr "Esa cuenta de usuario fue borrada."
+msgstr "De account van deze gebruiker is gewist."
 
 #: apps/badges/forms.py:68 apps/projects/forms.py:102 apps/schools/forms.py:99
 #, python-format
