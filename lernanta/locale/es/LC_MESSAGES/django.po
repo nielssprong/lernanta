@@ -128,7 +128,7 @@ msgstr ""
 msgid "Completion/aggregate badge -- awarded by self assessments"
 msgstr "Completement/aggregate badge -- uitgegeven op basis van zelf-beoordeling"
 
-#: apps/badges/models.py:68
+#: apps/badges/models.py:68 Niet vertaald 
 msgid ""
 "Skill badge -- badges that are skill based and assessed by peers with "
 "related logic"
@@ -139,60 +139,60 @@ msgstr ""
 #: apps/badges/models.py:70
 msgid "Peer-to-peer/community badge -- badges granted by peers"
 msgstr ""
-"Medalla de-colega-a-colega/de-la-comunidad -- medallas otorgadas por otros "
-"colegas"
+"Peer-to-peer/community badge"
+"peers"
 
 #: apps/badges/models.py:72
 msgid "Stealth badge -- system awarded badges"
-msgstr "Medalla Automática -- medallas otorgadas por el sistema"
+msgstr "Stealth badge -- badges uitgegeven door het systeem"
 
 #: apps/badges/models.py:73
 msgid "Other badges -- badges like course organizer or those staff issued"
 msgstr ""
-"Otras medallas -- medallas como organizador de un curso o otras dadas por "
-"los administradores"
+"Andere badges -- badges zoals course organiser of die uitgegeven zijn door de site admins "
+"de admins"
 
 #: apps/badges/models.py:84
 msgid ""
 "If no logic is chosen, no logic required.  Example: self-assessment badges."
 msgstr ""
-"No todas las medallas requiren especificar una lógica. Por ejemplo: las "
-"medallas otorgadas por auto-evaluación."
+"Als geen logica is gekozen, dan is logica niet nodig. Bijvoorbeeld: self-assessment badges "
+
 
 #: apps/badges/models.py:96 templates/badges/submissions_list.html:28
 #: templates/badges/submissions_list.html:43
 msgid "Badge"
-msgstr "Medalla"
+msgstr "Badge"
 
 #: apps/badges/models.py:207
 msgid "Minimum number of votes."
-msgstr "Número mínimo de votos."
+msgstr "Minimaal aantal stemmen."
 
 #: apps/badges/models.py:210
 msgid "Minimum average rating."
-msgstr "Calificación promedio mínima."
+msgstr "Minimum gemiddelde rating."
 
 #: apps/badges/models.py:214
 #, python-format
 msgid "%(min_votes)s peers -- by an average rating of %(min_avg)s -- "
 msgstr ""
-"%(min_votes)s colegas-- para una calificación promedio de %(min_avg)s -- "
+"%(min_votes)s peers-- gebaseerd op een gemiddelde rating van %(min_avg)s -- "
 
 #: apps/badges/models.py:232
 msgid "Current number of votes"
-msgstr "Número actual de votos"
+msgstr "Huidig aantal stemmen"
 
 #: apps/badges/models.py:234
 msgid "Current total rating"
-msgstr "Calificación total actual."
+msgstr "Huidige totale rating."
 
 #: apps/badges/models.py:237
 msgid "Last time this person received a qualified rating"
-msgstr "Última vez que esta persona recibió una calificación"
+msgstr "De vorige keer dat iemand een gekwalificeerde rating heeft gekregen "
 
 #: apps/badges/models.py:240
 msgid "First time this person received a qualified rating"
-msgstr "Primera vez que esta persona recibió una calificación"
+msgstr "De eerste keer dat iemand een gekwalificeerde rating heeft gekregen."
 
 #: apps/badges/models.py:250
 #, python-format
