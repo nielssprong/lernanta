@@ -27,7 +27,7 @@ msgstr "Bitácora de actividades que %s está siguiendo"
 
 #: apps/activity/models.py:95
 msgid "activities"
-msgstr "actividades"
+msgstr "Bezigheden"
 
 #: apps/activity/models.py:102
 #, python-format
