@@ -108,25 +108,25 @@ msgstr "If kan maar een keer aan de gebruiker gegeven worden"
 
 #: apps/badges/models.py:47
 msgid "Self assessment -- able to get the badge without outside assessment"
-msgstr "Zelf assessment"
+msgstr "Self assessment -- je kunt deze badge krijgen zonder assessment van anderen"
 
 #: apps/badges/models.py:49
 msgid "Peer assessment -- community or skill badges users grant each other"
 msgstr ""
-"Evaluación de Colegas -- Medallas de la comunidad o por hábilidades "
-"adquiridas que los usuarios se otorgan unos a otros"
+"Peer assessment -- community of skill badge die gebruikers aan elkaar geven "
+
 
 #: apps/badges/models.py:51
 msgid ""
 "Stealth assessment -- badges granted by the system based on supplied logic. "
 "Accumulative."
 msgstr ""
-"Evaluación Automatica -- medallas otorgadas por el sistema de acuerdo a la "
-"lógica especificada. Son acumulativas."
+"Stealth assessment -- badges gegeven door het systeem op basis van een bepaalde logica. "
+"Deze zijn cumulatief"
 
 #: apps/badges/models.py:66
 msgid "Completion/aggregate badge -- awarded by self assessments"
-msgstr "Medalla por Terminación/agregado -- otorgada mediante auto-evaluación"
+msgstr "Completement/aggregate badge -- uitgegeven op basis van zelf-beoordeling"
 
 #: apps/badges/models.py:68
 msgid ""
