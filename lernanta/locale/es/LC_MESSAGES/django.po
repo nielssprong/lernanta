@@ -90,25 +90,25 @@ msgstr "De account van deze gebruiker is gewist."
 #: apps/badges/forms.py:68 apps/projects/forms.py:102 apps/schools/forms.py:99
 #, python-format
 msgid "There is no user with username: %s."
-msgstr "No hay nadie con ese nombre de usuario: %s."
+msgstr "Er is niemand met username: %s"
 
 #: apps/badges/forms.py:71
 #, python-format
 msgid "User %s needs to be your peer."
-msgstr "El usuario %s debe ser su colega."
+msgstr "User %s zou je peer moeten zijn"
 
 #: apps/badges/forms.py:74
 #, python-format
 msgid "User %s has not received all the prerequisite badges."
-msgstr "El usuario %s no ha recibido todas las medallas pre-requisito."
+msgstr "User %s heeft niet alle prerequisite badges"
 
 #: apps/badges/models.py:40
 msgid "If can only be awarded to the user once."
-msgstr "Si solo puede ser otorgada una vez al usuario."
+msgstr "If kan maar een keer aan de gebruiker gegeven worden"
 
 #: apps/badges/models.py:47
 msgid "Self assessment -- able to get the badge without outside assessment"
-msgstr "Auto-evaluación - capaz de obtener la medalla sin evaluación externa"
+msgstr "Zelf assessment"
 
 #: apps/badges/models.py:49
 msgid "Peer assessment -- community or skill badges users grant each other"
